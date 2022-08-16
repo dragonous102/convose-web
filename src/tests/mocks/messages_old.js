@@ -1,0 +1,67 @@
+export default [
+  {
+    id: 33,
+    chat_id: 11,
+    content: "hello Josh",
+    created_at: "2017-12-30T16:39:50.367Z",
+    updated_at: "2017-12-30T16:39:50.367Z",
+    sender_id: 100,
+    sender: "ZjVhNDMyZjE1ZDYzY2M3Mw-YTA0ZTZiZmIxNTBjZTUwNA",
+    avatar: {
+      url: "/uploads/profile/avatar/53/1514651625-quilt20171230-4-1bu75lv.png",
+    },
+    class: "me",
+  },
+  {
+    id: 34,
+    chat_id: 11,
+    content: "Hello Sejin",
+    created_at: "2017-12-30T16:40:02.886Z",
+    updated_at: "2017-12-30T16:40:02.886Z",
+    sender_id: 101,
+    sender: "ODlhOTkwNGI1NjdhYjk3Zg-NmUxYjhhYmZmMjBkNWFlNw",
+    avatar: {
+      url: "/uploads/profile/avatar/54/1514651745-quilt20171230-4-wsj8q0.png",
+    },
+    class: "him",
+  },
+  {
+    id: 35,
+    chat_id: 11,
+    content: "hahha",
+    created_at: "2017-12-30T16:56:54.654Z",
+    updated_at: "2017-12-30T16:56:54.654Z",
+    sender_id: 100,
+    sender: "ZjVhNDMyZjE1ZDYzY2M3Mw-YTA0ZTZiZmIxNTBjZTUwNA",
+    avatar: {
+      url: "/uploads/profile/avatar/53/1514651625-quilt20171230-4-1bu75lv.png",
+    },
+    class: "me",
+  },
+  {
+    id: 36,
+    chat_id: 11,
+    content: "gh",
+    created_at: "2017-12-30T16:57:11.155Z",
+    updated_at: "2017-12-30T16:57:11.155Z",
+    sender_id: 101,
+    sender: "ODlhOTkwNGI1NjdhYjk3Zg-NmUxYjhhYmZmMjBkNWFlNw",
+    avatar: {
+      url: "/uploads/profile/avatar/54/1514651745-quilt20171230-4-wsj8q0.png",
+    },
+    class: "him",
+  },
+  {
+    id: 37,
+    chat_id: 11,
+    content: "kj",
+    created_at: "2017-12-30T17:25:00.364Z",
+    updated_at: "2017-12-30T17:25:00.364Z",
+    sender_id: 101,
+    sender: "ODlhOTkwNGI1NjdhYjk3Zg-NmUxYjhhYmZmMjBkNWFlNw",
+    avatar: {
+      url: "/uploads/profile/avatar/54/1514651745-quilt20171230-4-wsj8q0.png",
+    },
+    class: "him",
+  },
+]

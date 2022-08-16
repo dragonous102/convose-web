@@ -1,0 +1,9 @@
+export const ROUTE_PRIVACY = "/privacy"
+export const ANCHOR_COOKIE_POLICY = "cookies"
+export const ROUTE_COOKIE_POLICY = `${ROUTE_PRIVACY}#${ANCHOR_COOKIE_POLICY}`
+export const ROUTE_IMPRINT = "/imprint"
+export const ROUTE_CHAT = "/chat/:chatId"
+export const ROUTE_FULL_SCREEN_CALL = "/call/:chatId/:start"
+export const ROUTE_ABOUT = "/about"
+export const ROUTE_INFO_EXTERNAL = "https://www.convose.info"
+export const ROUTE_RESET_PASSWORD = "/resetpassword"

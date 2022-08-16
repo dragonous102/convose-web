@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [{
+      "appID": "convoseapp",
+      "paths": [
+        "NOT https://deploy-preview-323--convose.netlify.app/resetpassword",
+        "/*"]
+    }]
+   }
+}

@@ -1,0 +1,6 @@
+{
+  "chatMessageTypeImage": true,
+  "chatMessageTypeAudio": true,
+  "instantMessageDisplay": true,
+  "autoScrollOnChatImageLoad": true
+}

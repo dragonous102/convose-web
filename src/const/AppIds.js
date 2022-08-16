@@ -1,0 +1,3 @@
+export default {
+  AGORA_APP_ID: "027b44084d194574b386351088fe54a8",
+}

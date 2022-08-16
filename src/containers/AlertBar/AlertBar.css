@@ -1,0 +1,67 @@
+.alert-bar {
+  padding: 0.65rem 0;
+  transition: 0.5s cubic-bezier(0.89, 0.01, 0.5, 1.1);
+  transform: translatez(0);
+  position: fixed;
+  display: block;
+  /* top: 70rem; */
+  left: 0;
+  opacity: 0;
+  visibility: hidden;
+  width: 100%;
+  z-index: 1000;
+  font-size: 16rem;
+  font-weight: bold;
+  color: #fff;
+  /* margin-top: -70rem; */
+}
+.alert-bar.alert-success {
+  background-color: #98eaae;
+}
+.alert-bar.alert-info {
+  background-color: #6c91df;
+}
+.alert-bar.alert-error {
+  background-color: #e9684b;
+}
+.alert-bar.alert-warning {
+  background-color: #ffce73;
+}
+.alert-bar.shown {
+  visibility: visible;
+  opacity: 1;
+  margin-top: 0;
+}
+.alert-bar .notification-bar-wrapper {
+  padding: 0 1rem;
+}
+.alert-bar .notification-bar-message {
+  float: left;
+  width: 90%;
+  font-size: 14px;
+}
+.alert-bar .notification-bar-message i {
+  display: none;
+}
+.alert-bar .notification-bar-action {
+  float: right;
+  font-size: 14px;
+}
+.alert-bar .notification-bar-action:before {
+  /* font-family: "Ionicons"; */
+  font-style: normal;
+  font-weight: normal;
+  /* speak: none; */
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  cursor: pointer;
+}
+.alert-bar a {
+  color: #fff;
+}
+
+.notification-bar-custom {
+  z-index: 10;
+  background: green;
+}

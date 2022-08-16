@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.convose.convose",
+      "sha256_cert_fingerprints": [
+        "70:57:4D:EF:45:E6:CB:2F:0C:EE:5D:7F:41:1C:5B:2F:A4:C9:01:10:99:71:59:1E:9B:37:54:C6:A1:EB:45:1E"
+      ]
+    }
+  }
+]
