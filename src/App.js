@@ -4,6 +4,7 @@ import Routes from "./router"
 import { StyledApp, RebootStyles } from "./global/styles"
 import { AppModal } from "./components"
 
+
 // TODO: refactor App component aligned with router !
 const App = () => {
   const isMobileOrTabletView = useSelector((s) => s.viewport.lessThan.large)
