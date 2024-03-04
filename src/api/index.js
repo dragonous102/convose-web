@@ -231,10 +231,7 @@ export const fetchUserAddToGroup = ({ chatId, prevrequest, from, limit }) => {
   })
 }
 
-// export const fetchGuestUser = (token) => {
-//   const endpoint = ENDPOINTS.GUEST
-//   return getEndpoint({endpoint, method: 'GET', token })
-// }
+
 export const fetchGuestUser = () => {
   const endpoint = ENDPOINTS.GUEST
   const method = "POST"
